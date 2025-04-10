@@ -21,12 +21,12 @@
 
 <br>
 <p align="center">
-<img src="./images/HTML.png"/>
-<img src="./images/css.png"/>
-<img src="./images/js.png">
-<img src="./images/python.png"/>
-<img src="./images/c.png"/>
-<img src="./images/cpp.png"/>
+<img src="./images/HTML.png" height="50"/>
+<img src="./images/css.png" height="50"/>
+<img src="./images/js.png" height="50">
+<img src="./images/python.png" height="50"/>
+<img src="./images/c.png" height="50"/>
+<img src="./images/cpp.png" height="50"/>
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
