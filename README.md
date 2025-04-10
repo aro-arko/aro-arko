@@ -21,27 +21,27 @@
 
 <br>
 <p align="center">
-<img src="./images/HTML.png" height="50"/>
-<img src="./images/css.png" height="50"/>
-<img src="./images/js.png" height="50">
-<img src="./images/tailwind.png" height="50"/>
-<img src="./images/shadcn.png" height="50">
-<img src="./images/typescript.png" height="50">
-<img src="./images/react.png" height="50">
-
+  <img src="./images/HTML.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/css.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/js.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/tailwind.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/shadcn.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/typescript.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/react.png" height="50" style="margin: 0 15px;"/>
 </p>
 <p align="center">
-<img src="./images/nextjs.jpeg" height="50">
-<img src="./images/redux.png" height="50">
-<img src="./images/python.png" height="50"/>
-<img src="./images/c.png" height="50"/>
-<img src="./images/cpp.png" height="50"/>
+  <img src="./images/nextjs.jpeg" height="50" style="margin: 0 15px;"/>
+  <img src="./images/redux.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/python.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/c.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/cpp.png" height="50" style="margin: 0 15px;"/>
 </p>
 <p align="center">
-<img src="./images/node.png"/>
-<img src="./images/express.png"/>
-<img src="./images/mongo.png"/>
-</p><br/>
+  <img src="./images/node.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/express.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/mongo.png" height="50" style="margin: 0 15px;"/>
+</p>
+<br/>
 
 ## :eyes: Current overview
 
