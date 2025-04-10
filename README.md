@@ -24,6 +24,8 @@
 <img src="./images/HTML.png" height="50"/>
 <img src="./images/css.png" height="50"/>
 <img src="./images/js.png" height="50">
+<img src="./images/tailwindcss.png" height="50"/>
+<img src="./images/shadcn.png" height="50">
 <img src="./images/python.png" height="50"/>
 <img src="./images/c.png" height="50"/>
 <img src="./images/cpp.png" height="50"/>
@@ -32,7 +34,6 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
 </p>
