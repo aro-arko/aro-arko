@@ -9,12 +9,6 @@
   <img width="60%" src="img src="https://github-readme-streak-stats.herokuapp.com?user=aro-arko" />
 </p>
 
-<!-- ## :mailbox: Reach me out
-
-<br />
-
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/aroarko/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/aroarko28)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/"> </p>](https://www.instagram.com/aroarko) -->
-
 <br />
 
 ## :computer: Technologies that I know
