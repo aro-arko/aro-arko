@@ -19,27 +19,15 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="img src="https://github-readme-streak-stats.herokuapp.com?user=aro-arko" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=aro-arko" />
 </p>
 <br />
 
 ## 🔗 Connect with Me
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <a href="https://linkedin.com/in/aroarko" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:40px;" />
-      </a>
-    </td>
-    <td style="width: 100px;"></td>
-    <td>
-      <a href="https://facebook.com/aroarko28" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-8A2BE2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" style="height:40px;" />
-      </a>
-    </td>
-  </tr>
-</table>
+[<p align="center"><img height="75" src="/images/Linkedin.png">](https://www.linkedin.com/in/aroarko/)[<img height="75" src="/images/Facebook.png">](https://www.facebook.com/aroarko28)
+
+<br />
 
 <br />
 
