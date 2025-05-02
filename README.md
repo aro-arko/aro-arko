@@ -35,8 +35,6 @@
   </a>
 </p>
 
----
-
 <br />
 
 ## :computer: Technologies that I know
