@@ -21,6 +21,19 @@
 <p align="center">
   <img width="60%" src="img src="https://github-readme-streak-stats.herokuapp.com?user=aro-arko" />
 </p>
+<br />
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/aroarko" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/aroarko28" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-8A2BE2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+---
 
 <br />
 
