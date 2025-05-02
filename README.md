@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aro-arko&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aro-arko&label=Views&color=blueviolet&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ruhitbaidya?label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ruhitbaidya?label=Stars" alt="GitHub Stars" />
 </p>
