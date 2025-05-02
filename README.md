@@ -25,7 +25,7 @@
 
 ## 🔗 Connect with Me
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td>
       <a href="https://linkedin.com/in/aroarko" target="_blank">
