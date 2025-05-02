@@ -25,7 +25,14 @@
 
 ## 🔗 Connect with Me
 
-[<p align="center"><img height="75" src="/images/Linkedin.png">](https://www.linkedin.com/in/aroarko/)[<img height="75" src="/images/Facebook.png"> </p>](https://www.facebook.com/aroarko28)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aroarko/">
+    <img height="75" src="/images/Linkedin.png">
+  </a>
+  <a href="https://www.facebook.com/aroarko28">
+    <img height="75" src="/images/Facebook.png">
+  </a>
+</p>
 
 <br />
 
