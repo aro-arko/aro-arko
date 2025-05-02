@@ -3,6 +3,8 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Arko</h1>
+### <p align="center">A passionate MERN Stack Developer crafting dynamic web applications using modern technologies like React, Express, and MongoDB. Problem-solving and continuous learning fuel my journey.</p>
+---
 
 ## :chart_with_upwards_trend: Current Stats
 
