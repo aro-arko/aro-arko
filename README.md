@@ -33,9 +33,6 @@
     <img height="75" src="/images/Facebook.png">
   </a>
 </p>
-
-<br />
-
 <br />
 
 ## :computer: Technologies that I know
