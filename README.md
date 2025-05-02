@@ -26,13 +26,14 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/aroarko" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/aroarko" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:40px; width:auto;" />
   </a>
-  <a href="https://facebook.com/aroarko28" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-8A2BE2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://facebook.com/aroarko28" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Facebook-8A2BE2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" style="height:40px; width:auto;" />
   </a>
 </p>
+
 ---
 
 <br />
