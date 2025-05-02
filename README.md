@@ -3,7 +3,17 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Arko</h1>
+
 ### <p align="center">A passionate MERN Stack Developer crafting dynamic web applications using modern technologies like React, Express, and MongoDB. Problem-solving and continuous learning fuel my journey.</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aro-arko&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ruhitbaidya?label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ruhitbaidya?label=Stars" alt="GitHub Stars" />
+</p>
+
 ---
 
 ## :chart_with_upwards_trend: Current Stats
