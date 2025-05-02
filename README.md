@@ -19,9 +19,8 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=aro-arko&theme=darkviolet" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=aro-arko&theme=midnight-purple" />
 </p>
-
 <br />
 
 ## 🔗 Connect with Me
@@ -34,6 +33,7 @@
     <img height="75" src="/images/Facebook.png">
   </a>
 </p>
+
 <br />
 
 ## :computer: Technologies that I know
