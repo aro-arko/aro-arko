@@ -2,6 +2,8 @@
 <img src="/images/banner.png" />
 </a>
 
+<h1 align="center">Hi 👋, I'm Arko</h1>
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
