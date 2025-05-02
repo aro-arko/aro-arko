@@ -9,9 +9,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aro-arko&label=Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aro-arko?label=Followers&logoColor=violet" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/aro-arko?label=Stars" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=aro-arko&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aro-arko?label=Followers&logo=github&logoColor=white&style=flat&color=8A2BE2" alt="GitHub Followers" />
 </p>
 
 ---
