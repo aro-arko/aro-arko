@@ -71,6 +71,7 @@
   <img src="./images/mongo.png" height="50" style="margin: 0 15px;"/>
 </p>
 <br/>
+<!-- Overview Section -->
 
 ## :eyes: Current overview
 
