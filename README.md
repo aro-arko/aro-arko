@@ -47,6 +47,7 @@
 
 <br>
 <p align="center">
+  <!-- Frontend Technologies -->
   <img src="./images/HTML.png" height="50" style="margin: 0 15px;"/>
   <img src="./images/css.png" height="50" style="margin: 0 15px;"/>
   <img src="./images/js.png" height="50" style="margin: 0 15px;"/>
