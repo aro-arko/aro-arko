@@ -28,6 +28,8 @@
 </p>
 <br />
 
+<!-- Social Links Section -->
+
 ## 🔗 Connect with Me
 
 <p align="center">
