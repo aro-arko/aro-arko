@@ -65,6 +65,7 @@
   <img src="./images/cpp.png" height="50" style="margin: 0 15px;"/>
 </p>
 <p align="center">
+  <!-- Backend Technologies -->
   <img src="./images/node.png" height="50" style="margin: 0 15px;"/>
   <img src="./images/express.png" height="50" style="margin: 0 15px;"/>
   <img src="./images/mongo.png" height="50" style="margin: 0 15px;"/>
