@@ -1,3 +1,4 @@
+<!-- Banner Section -->
 <a href="https://www.aro-arko.software/">
 <img src="/images/banner.png" />
 </a>
