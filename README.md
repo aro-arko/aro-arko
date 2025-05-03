@@ -42,7 +42,7 @@
 </p>
 
 <br />
-
+<!-- Technologies Section -->
 ## :computer: Technologies that I know
 
 <br>
