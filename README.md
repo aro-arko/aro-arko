@@ -57,6 +57,7 @@
   <img src="./images/react.png" height="50" style="margin: 0 15px;"/>
 </p>
 <p align="center">
+  <!-- Frameworks and Programming Languages -->
   <img src="./images/nextjs.jpeg" height="50" style="margin: 0 15px;"/>
   <img src="./images/redux.png" height="50" style="margin: 0 15px;"/>
   <img src="./images/python.png" height="50" style="margin: 0 15px;"/>
