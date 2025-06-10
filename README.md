@@ -43,7 +43,8 @@
 
 <br />
 <!-- Technologies Section -->
-## :computer: Technologies that I know
+
+## 💻 Technologies that I know
 
 <br>
 <p align="center">
