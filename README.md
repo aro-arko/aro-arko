@@ -6,7 +6,7 @@
 <!-- Introduction Section -->
 <h1 align="center">Hi 👋, I'm Arko</h1>
 
-### <p align="center">A passionate MERN Stack Developer crafting dynamic web applications using modern technologies like React, Express, and MongoDB. Problem-solving and continuous learning fuel my journey.</p>
+### <p align="center">A passionate Full Stack Developer crafting dynamic web applications using modern technologies like React, Express, MongoDB and PostgreSQL. Problem-solving and continuous learning fuel my journey.</p>
 
 ---
 
@@ -84,4 +84,4 @@
 
 ### 🤔 I’m trying - To help people learn web development.
 
-### ⚡ Fun fact - I’m a MERN stack developer, I love to make complex origami, and I can speak 5 languages.
+### ⚡ Fun fact - I’m a full stack developer, I love to make complex origami, and I can speak 5 languages.
