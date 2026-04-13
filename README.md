@@ -70,7 +70,7 @@
   <!-- Backend Technologies -->
   <img src="./images/node.png" height="50" style="margin: 0 15px;"/>
   <img src="./images/express.png" height="50" style="margin: 0 15px;"/>
-  <img src="./images/net.png" height="50" style="margin: 0 10px; width: 50px; object-fit: cover;"/>
+  <img src="./images/net.png" height="50" style="margin: 0 10px; height: 50px; object-fit: cover;"/>
   <img src="./images/mongo.png" height="50" style="margin: 0 15px;"/>
 </p>
 <br/>
