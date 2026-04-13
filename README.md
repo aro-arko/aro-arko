@@ -6,7 +6,7 @@
 <!-- Introduction Section -->
 <h1 align="center">Hi 👋, I'm Arko</h1>
 
-### <p align="center">Backend-focused Software Engineer specializing in ASP.NET Core, building scalable and high-performance systems.</p>
+### <p align="center">Backend-focused Software Engineer (ASP.NET Core) building scalable systems, with full-stack experience in React and Node.js.</p>
 
 ---
 
