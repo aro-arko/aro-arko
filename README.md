@@ -86,4 +86,4 @@
 
 ### 🤔 I’m building - Production-ready APIs with caching, async processing, and optimized databases.
 
-### ⚡ Fun fact - I enjoy solving complex backend problems and designing systems that scale.
+### ⚡ Fun fact - I’m a full stack developer, I love to make complex origami, and I can speak 5 languages.
