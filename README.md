@@ -6,7 +6,11 @@
 <!-- Introduction Section -->
 <h1 align="center">Hi 👋, I'm Arko</h1>
 
-### <p align="center">A passionate Full Stack Developer crafting dynamic web applications using modern technologies like React, Express, MongoDB and PostgreSQL. Problem-solving and continuous learning fuel my journey.</p>
+### <p align="center">
+Backend-focused Software Engineer specializing in ASP.NET Core, building scalable, high-performance systems.
+<br/>
+Strong in system design, database performance, and distributed architectures — with full-stack experience in React and modern web technologies.
+</p>
 
 ---
 
