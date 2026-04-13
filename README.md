@@ -64,11 +64,13 @@
   <img src="./images/python.png" height="50" style="margin: 0 15px;"/>
   <img src="./images/c.png" height="50" style="margin: 0 15px;"/>
   <img src="./images/cpp.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/c_sharp.png" height="50" style="margin: 0 15px;"/>
 </p>
 <p align="center">
   <!-- Backend Technologies -->
   <img src="./images/node.png" height="50" style="margin: 0 15px;"/>
   <img src="./images/express.png" height="50" style="margin: 0 15px;"/>
+  <img src="./images/net.png" height="50" style="margin: 0 15px;"/>
   <img src="./images/mongo.png" height="50" style="margin: 0 15px;"/>
 </p>
 <br/>
@@ -76,12 +78,12 @@
 
 ## :eyes: Current overview
 
-### 🔭 I’m working - As a Student Ambassador.
+### 🔭 I’m working - As a Software Engineer (Backend-focused, ASP.NET Core).
 
-### 🌱 I’m exploring - Advanced motion graphics for the web.
+### 🌱 I’m focused on - System design, performance optimization, and scalable backend architecture.
 
-### 👯 I’m looking - For job opportunities and to collaborate on open source projects.
+### 👯 I’m open to - Backend roles, high-impact systems, and open-source contributions.
 
-### 🤔 I’m trying - To help people learn web development.
+### 🤔 I’m building - Production-ready APIs with caching, async processing, and optimized databases.
 
-### ⚡ Fun fact - I’m a full stack developer, I love to make complex origami, and I can speak 5 languages.
+### ⚡ Fun fact - I enjoy solving complex backend problems and designing systems that scale.
