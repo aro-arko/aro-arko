@@ -9,7 +9,7 @@
 ### <p align="center">
 Backend-focused Software Engineer specializing in ASP.NET Core, building scalable, high-performance systems.
 <br/>
-Strong in system design, database performance, and distributed architectures — with full-stack experience in React and modern web technologies.
+Strong in system design, database performance, and distributed architectures - with full-stack experience in React and modern web technologies.
 </p>
 
 ---
